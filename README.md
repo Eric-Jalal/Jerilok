@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Vaisala](https://github.com/vaisala-oss) as Java developer
+- 🔭 I’m currently working at [Vaisala](https://github.com/vaisala-oss) as a DevOps. 
 - 🌱 I’m currently concentrated on learning Cloud technologies
 - 👯 I’m looking to collaborate on opensource projects, tutorials and educational projects
 - 📫 How to reach me: https://www.linkedin.com/in/eric-jalal/
